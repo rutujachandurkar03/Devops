@@ -1,3 +1,0 @@
-#First  version file
-
-"This is the first feature of our application"p 
